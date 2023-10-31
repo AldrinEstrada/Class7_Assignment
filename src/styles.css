@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.article {
+  text-align: left;
+  margin-left: 1em;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 90%;
+  padding: 20px;
+  box-shadow: 0 2px 3px #555;
+  margin: 20px;
+}
+
+.article span {
+  display: inline-block;
+  margin: 0.1rem;
+  font-size: 0.8rem;
+  background: #eaeaea;
+  padding: 0.5px;
+}
+
+.article h2 {
+  text-align: center;
+}
